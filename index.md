@@ -19,7 +19,7 @@ A bridge between business and technology. The solution architect leads the pract
 
 My first step is getting a clear understanding of your business objectives, challenges, market and organization. The best technology fit for your budget must include everyone and everything in scope. I cultivate collaboration, team spirit and best practices to deliver quality and efficient results.
 
-I'm central when planning the various projects that deliver your vision. I'm hands-on when a team jumpstarts a project and delivers a proofs of concept. I actively support project managers and professional teams while they work on delivering projects. I handle escalations and find workarounds to keep all team running, as delivering your vision successfully is my responsibility.
+I'm central when planning the various projects that deliver your vision. I'm hands-on when a team jumpstarts a project and delivers a proof of concept. I actively support project managers and professional teams while they work on delivering projects. I handle escalations and find workarounds to keep everyone moving forward, as delivering your vision successfully is my responsibility.
 
 # Background
 
