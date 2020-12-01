@@ -6,19 +6,24 @@ A bridge between business and technology. The solution architect leads the pract
 - What challenges should we manage while building your vision?
 - Is your budget upfront or will revenues be generated at each stage of the way?
 - What is your starting point?
-- How must your team and organisation adapt for daily operations to align with your vision?
+- How will daily operations move toward your vision?
+- What can people do to help and prepare?
+- Is the organization prepared to adapt practices and governance models? 
 - What are your values and market priorities?
 
-> The right tool must produce what you actually want.
-> Helping the team and the organization to align progressively is part of the job.
+> **Focus on what matters**: The right tool produces what you actually want.
 
-My first step is getting a clear understanding of your business objectives, challenges, market and organization to align everyone and identify the best technology fit for your budget. I cultivate collaboration, team spirit and best practices to deliver quality and efficient results.
+> **Keep that ball in the air**: Align your daily operations progressively.
+
+> **Promote user satisfaction**: Help the team and the organization adapt proactively.
+
+My first step is getting a clear understanding of your business objectives, challenges, market and organization. The best technology fit for your budget must include everyone and everything in scope. I cultivate collaboration, team spirit and best practices to deliver quality and efficient results.
 
 # Background
 
 My abilities as a solution architect and programmer are the fruit of 20 years of experience in I.T. for clients and projects of various sizes in retail, B2B, B2C, online marketing, translation and inventory control, in both the private and the public sectors. 
 
-As a full stack programmer, my experience encompasses both the frontend (design, marketing, translation, HTML-CSS-JS coding and business logic) and the backend (servers, databases, code management, business logic, Python3-PHP-JS-Bash).
+As a full stack programmer, my experience encompasses both the frontend (design, marketing, usability, translation, HTML-CSS-JS coding and business logic) and the backend (servers, databases, code management, business logic, Python3-PHP-JS-Bash).
 
 My experiences as a small business entrepreneur and as a fast-paste technical marketing project manager and as a translator allow me to speak business fluently and know how to deal with people and form healthy business relationships and motivate team members toward a common goal.
 
