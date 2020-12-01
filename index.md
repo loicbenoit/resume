@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# What is a solution architect?
 
-You can use the [editor on GitHub](https://github.com/loicbenoit/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A bridge between business and technology. The solution architect leads the practice and establishes the technical vision of a solution for a given business plan. There are many correct ways to build your vision, but finding the best fit for you is my challenge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- What are your short, medium and long term business goals?
+- What challenges should we manage while building your vision?
+- Is your budget upfront or will revenues be generated at each stage of the way?
+- What is your starting point?
+- How must your team and organisation adapt for daily operations to align with your vision?
+- What are your values and market priorities?
 
-### Markdown
+> The right tool must produce what you actually want.
+> Helping the team and the organization to align progressively is part of the job.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My first step is getting a clear understanding of your business objectives, challenges, market and organization to align everyone and identify the best technology fit for your budget. I cultivate collaboration, team spirit and best practices to deliver quality and efficient results.
 
-```markdown
-Syntax highlighted code block
+# Background
 
-# Header 1
-## Header 2
-### Header 3
+My abilities as a solution architect and programmer are the fruit of 20 years of experience in I.T. for clients and projects of various sizes in retail, B2B, B2C, online marketing, translation and inventory control, in both the private and the public sectors. 
 
-- Bulleted
-- List
+As a full stack programmer, my experience encompasses both the frontend (design, marketing, translation, HTML-CSS-JS coding and business logic) and the backend (servers, databases, code management, business logic, Python3-PHP-JS-Bash).
 
-1. Numbered
-2. List
+My experiences as a small business entrepreneur and as a fast-paste technical marketing project manager and as a translator allow me to speak business fluently and know how to deal with people and form healthy business relationships and motivate team members toward a common goal.
 
-**Bold** and _Italic_ and `Code` text
+## EXPERIENCE SNAPSHOT
 
-[Link](url) and ![Image](src)
-```
+### INDUSTRY EXPERTISE
+- Public and private sectors
+- Inventory control
+- eCommerce and physical point
+of sale systems
+- Marketing, CRM, loyalty
+programs (Aeroplan/Aimia)
+- Mass promotional and
+transactional email campaigns
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### TECHNICAL SPECIALIZATIONS
+- Solution architecture
+- Programming
+  - Python3
+  - ES6: Vue.js, Nuxt.js, React, Angular
+  - PHP : Yii2, Laravel, Symfony, WP
+  - HTML, Javascript, CSS
+- ETL/ELT
+  - Airflow
+  - Matillion
+- Databases
+  - Snowflake
+  - MySQL/MariaDB
+  - PostgreSQL
+- Cloud
+  - AWS (Amazon)
+  - Microsoft Azure
 
-### Jekyll Themes
+### SOFTWARES AND TOOLS
+- Agile, Scrum (Jira, Confluence)
+- DevOps (GitLab, Jenkins)
+- Git, GitLab, Bitbucket
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loicbenoit/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### LANGUAGES (SPOKEN/WRITTEN)
+- French (primary)
+- English (secondary)
