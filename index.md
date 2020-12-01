@@ -27,7 +27,7 @@ My abilities as a solution architect and programmer are the fruit of 20 years of
 
 As a full stack programmer, my experience encompasses both the frontend (design, marketing, usability, translation, HTML-CSS-JS coding and business logic) and the backend (servers, databases, code management, business logic, Python3-PHP-JS-Bash).
 
-Speaking business fluently and having good people skill was a requirement as a small business entrepreneur. Navigating the politics of a big company as a large-scale marketing production manager was also a good lesson, both professionnally and in life. As a large-scale technical translator, I extended my hability to put myself in another person's shoes, allowing me to form healthy business relationships when leading and motivating team members toward a common goal.
+Speaking business fluently and having good people skill was a requirement as a small business entrepreneur. Navigating the politics of a big company as a large-scale marketing production manager made me grow fast, both professionally and in life. As a technical translator, I practiced daily the art of putting myself in another person's shoes. It still helps me form healthy business relationships when leading and motivating team members toward a common goal.
 
 ## EXPERIENCE SNAPSHOT
 
