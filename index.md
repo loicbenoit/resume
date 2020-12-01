@@ -21,6 +21,21 @@ My first step is getting a clear understanding of your business objectives, chal
 
 I'm central when planning the various projects that deliver your vision. I'm hands-on when a team jumpstarts a project and delivers a proof of concept. I actively support project managers and professional teams while they work on delivering projects. I handle escalations and find workarounds to keep everyone moving forward, as delivering your vision successfully is my responsibility.
 
+## What does it mean to architect in the cloud?
+
+First, choose the right cloud for your business. Then, use the cloud wisely.
+
+- Azure Cloud architecture overview
+  - [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
+  - [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/)
+  - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+  
+- AWS architecture overview
+  - [AWS Architecture Center](https://aws.amazon.com/architecture/)
+  
+- Google Cloud architecture overview
+  - [Architecture Framework](https://cloud.google.com/architecture/framework)
+
 # Background
 
 My abilities as a solution architect and programmer are the fruit of 20 years of experience in I.T. for clients and projects of various sizes in retail, B2B, B2C, online marketing, translation and inventory control, in both the private and the public sectors. 
