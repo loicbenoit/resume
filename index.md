@@ -43,6 +43,9 @@ transactional email campaigns
 
 ### TECHNICAL SPECIALIZATIONS
 - Solution architecture
+  - Cloud
+  - On-premise (traditional)
+  - Migration
 - Programming
   - Python3
   - ES6: Vue.js, Nuxt.js, React, Angular
