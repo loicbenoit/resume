@@ -1,29 +1,34 @@
 # What is a solution architect?
 
-A bridge between business and technology. The solution architect leads the practice and establishes the technical vision of a solution for a given business plan. There are many correct ways to build your vision, but finding the best fit for you is my challenge.
+A bridge between business and technology. The solution architect leads the practice and establishes the technical vision of a solution that delivers a given business plan. There are many correct ways to build your vision, but finding the best fit for you is the challenge.
 
 - What are your short, medium and long term business goals?
-- What challenges should we manage while building your vision?
+- What internal and external challenges should we manage while building your vision?
 - Is your budget upfront or will revenues be generated at each stage of the way?
-- What is your starting point?
+- What is your starting point (governance, processes, technologies, market position, etc.)?
 - How will daily operations move toward your vision?
 - What can people do to help and prepare?
 - Is the organization prepared to adapt practices and governance models? 
 - What are your values and market priorities?
+- etc.
 
 > **Focus on what matters**: The right tool produces what you actually want.
 
-> **Keep that ball in the air**: Align your daily operations progressively.
+> **Keep that ball in the air**: Align teams progressively.
 
-> **Promote user satisfaction**: Help the team and the organization adapt proactively.
+> **Promote satisfaction**: Involve all levels of the organization (to some degree).
 
-My first step is getting a clear understanding of your business objectives, challenges, market and organization. The best technology fit for your budget must include everyone and everything in scope. I cultivate collaboration, team spirit and best practices to deliver quality and efficient results.
+The first step is getting a clear understanding of your business objectives, challenges, market, organization, technologies and processes. Although the solution architect doesn't necessarily answer all of these questions, a thorough understanding of your business is required to identify key aspects and metrics, properly scope projects, find the best technologies that fit your budget and elaborate an efficient delivery plan that focuses of the right targets.
 
-I'm central when planning the various projects that deliver your vision. I'm hands-on when a team jumpstarts a project and delivers a proof of concept. I actively support project managers and professional teams while they work on delivering projects. I handle escalations and find workarounds to keep everyone moving forward, as delivering your vision successfully is my responsibility.
+As team work is essential for success, the solution architect must have good social skills to promote collaboration, spark team spirit and cultivate engagement. Inspiring a culture of best practices that strive for quality and that rewards proactive attitudes and working toward a clear goal is much more efficient than merely prescribing rules and requirements. The solution architect must also be a leader when tough decisions have to be made in light of the bigger picture.
+
+Central when planning the various projects that deliver your vision, the solution architect is hands-on when kick starting a project with a proof of concept. The solution architect actively supports project managers and professional teams while they work on delivering projects, handles escalations and finds workarounds to keep everyone moving forward in the right direction. Delivering your vision successfully is the responsibility of the solution architect, while project managers and professionnal are responsible for crafting the product.
 
 ## What does it mean to architect in the cloud?
 
-First, choose the right cloud for your business. Then, use the cloud wisely.
+First, choose the right cloud for your business. Then, use the cloud wisely. Being wise is the challenge...
+
+The solution must combine short, medium and long term business and technical considerations. Security is a foundation that protects the confidentiality, the integrity, and the availability of the solution. Cost management maximizes the value of the solution for the business, but it only has meaning when efficiency and reliability have been defined quantitatively in the context of a good DevOps strategy that includes delivery, change and incident management. Compliance (e.g.: GDRP, HITRUST, HIPAA), auditing requirements (e.g.: public sector, fiscality), data traceability and data ownership are just as essential for the reputation and profitability of the business. The scope of all things to integrate into a solution is the reason why team work and collaboration are so essential to the sucess of a solution architect, on top of individual competency.
 
 - Azure Cloud architecture overview
   - [Azure Application Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/guide/)
