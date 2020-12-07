@@ -71,21 +71,30 @@ transactional email campaigns
   - ES6: Vue.js, Nuxt.js, React, Angular
   - PHP : Yii2, Laravel, Symfony, WP
   - HTML, Javascript, CSS
-- ETL/ELT
+- Data integration
   - Airflow
   - Matillion
+  - ETL/ELT
 - Databases
-  - Snowflake
+  - Snowflake (SnowSQL)
   - MySQL/MariaDB
   - PostgreSQL
 - Cloud
-  - AWS (Amazon)
-  - Microsoft Azure
+  - Microsoft Azure (on certification path)
+  - AWS (Amazon)(learning)
+  - Google (learning)(Already a daily user of Google Workspace)
 
 ### SOFTWARES AND TOOLS
-- Agile, Scrum (Jira, Confluence)
+- Jira, Confluence
 - DevOps (GitLab, Jenkins)
 - Git, GitLab, Bitbucket
+
+### Philosophies
+- Agile: Scrum, SAFe
+- Test-driven development: Essential for the cloud.
+  - BDD: What are the business requirements? (System behaviors expressed as Given-When-Then).
+  - ATDD: What are the precise delivery criteria of each business requirement from the perspective of each individual user type?
+  - TDD: Is that code valid? Is it still valid when one actively tries to break it?
 
 ### LANGUAGES (SPOKEN/WRITTEN)
 - French (primary)
