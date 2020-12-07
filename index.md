@@ -86,12 +86,12 @@ transactional email campaigns
 
 ### SOFTWARES AND TOOLS
 - Jira, Confluence
-- DevOps (GitLab, Jenkins)
-- Git, GitLab, Bitbucket
+- Git, GitLab, Bitbucket, Jenkins
 
-### Philosophies
+### PHILOSOPHIES AND PRACTICES
 - Agile: Scrum, SAFe
-- Test-driven development: Essential for the cloud.
+- DevOps (cloud essential)
+- Test-driven development (cloud essential)
   - BDD: What are the business requirements? (System behaviors expressed as Given-When-Then).
   - ATDD: What are the precise delivery criteria of each business requirement from the perspective of each individual user type?
   - TDD: Is that code valid? Is it still valid when one actively tries to break it?
