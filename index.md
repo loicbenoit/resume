@@ -22,7 +22,7 @@ The first step is getting a clear understanding of your business objectives, cha
 
 As team work is essential for success, the solution architect must have good social skills to promote collaboration, spark team spirit and cultivate engagement. Inspiring a culture of best practices that strives for quality and that rewards proactive attitudes and working toward a clear goal is much more efficient than merely prescribing rules and requirements. The solution architect must also be a leader when tough decisions have to be made in light of the bigger picture.
 
-Central when planning the various projects that deliver your vision, the solution architect is hands-on when kick starting a project with a proof of concept. The solution architect actively supports project managers and professional teams while they work on delivering projects, handles escalations and finds workarounds to keep everyone moving forward in the right direction. Delivering your vision successfully is the responsibility of the solution architect, while project managers and professionnal are responsible for crafting products.
+Central when planning the various projects that deliver your vision, the solution architect is hands-on when kick starting a project with a proof of concept. The solution architect actively supports project managers and professional teams while they work on delivering projects, handles escalations and finds workarounds to keep everyone moving forward in the right direction. Delivering your vision successfully is the responsibility of the solution architect, while project managers and professionnal are responsible for crafting the products that embody that vision.
 
 ## What does it mean to architect in the cloud?
 
