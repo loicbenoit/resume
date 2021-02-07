@@ -18,7 +18,7 @@ A bridge between business and technology. The solution architect leads the pract
 
 > **Promote satisfaction**: Involve all levels of the organization (to some degree).
 
-The first step is getting a clear understanding of your business objectives, challenges, market, organization, technologies and processes. Although the solution architect doesn't necessarily answer all of these questions, a thorough understanding of your business is required to identify key aspects and metrics, properly scope projects, find the best technologies that fit your budget and elaborate an efficient delivery plan that focuses of the right targets.
+The first step is getting a clear understanding of your business objectives, challenges, market, organization, technologies and processes. Although the solution architect doesn't necessarily answer all of these questions, a thorough understanding of your business is required to identify key aspects and metrics, properly scope projects, find the best technologies that fit your budget and elaborate an efficient delivery plan that focuses on the right targets.
 
 As team work is essential for success, the solution architect must have good social skills to promote collaboration, spark team spirit and cultivate engagement. Inspiring a culture of best practices that strives for quality and that rewards proactive attitudes and working toward a clear goal is much more efficient than merely prescribing rules and requirements. The solution architect must also be a leader when tough decisions have to be made in light of the bigger picture.
 
