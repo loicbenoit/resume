@@ -28,22 +28,22 @@ Speaking business fluently and having good people skill was a requirement as a s
 - Inventory control
 - eCommerce and physical point
 of sale systems
-- Marketing, CRM, loyalty
-programs (Aeroplan/Aimia)
-- Mass promotional and
-transactional email campaigns
+- Large-scale marketing and loyalty
+programs (Aeroplan)
+- Energy sector
+- Trading (finance and energy)
 
 ### TECHNICAL SPECIALIZATIONS
 - Solution architecture
-  - Cloud
-  - On-premise (traditional)
-  - Migration
+  - Data integration (ETL, ELT)(cloud and on-premise)
+  - Office automation using web applications
 - Programming
   - Python3
   - ES6: Vue.js, Nuxt.js, React, Angular
   - PHP : Yii2, Laravel, Symfony, WP
   - HTML, Javascript, CSS
 - Data integration
+  - Databricks (Spark)
   - Airflow
   - Matillion
   - ETL/ELT
